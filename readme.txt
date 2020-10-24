@@ -1,3 +1,5 @@
+You can view the video to see how the game works.
+
 This code utilizes the pygame module to run the code. Sprites were a huge part of the code and functions such as sprite collide were 
 frequently used throughout the code. 
 
